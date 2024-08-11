@@ -1,14 +1,14 @@
 "# Akhilesh-2024-Repo" 
 Full Stack Developer Portfolio Description
-Welcome to my portfolio! I am [Your Name], a passionate and dedicated Full Stack Developer with expertise in creating dynamic and responsive web applications. With a strong foundation in both frontend and backend technologies, I strive to deliver seamless user experiences and robust functionalities.
+Welcome to my portfolio! I am Akhilesh Rastogi, a passionate and dedicated Full Stack Developer with expertise in creating dynamic and responsive web applications. With a strong foundation in both frontend and backend technologies, I strive to deliver seamless user experiences and robust functionalities.
 
 Home
 In the Home section, you'll get an overview of my skills, experience, and what drives me as a developer. It's a snapshot of who I am and what I can bring to the table.
 
 Skills
 Frontend: React, JavaScript, HTML, CSS
-Backend: [mention your backend skills such as Node.js, Express, MongoDB, etc.]
-Other Technologies: [mention any other relevant technologies or tools you use]
+Backend: backend skills such as Node.js, Express, MongoDB, etc.
+Other Technologies: other Power apps , PowerBI Power automate etc
 Clients
 In the Clients section, you can see the diverse range of clients I have worked with. Each project has been an opportunity to solve unique challenges and deliver tailored solutions that meet specific business needs.
 
